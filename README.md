@@ -25,9 +25,9 @@ I'm a passionate Data Analyst with a love leveraging data to drive technological
 
 ### 🔭 Projects
 
-- **Project 1:** [HR DATA ANALYSIS]([https://github.com/SAB-1/project-1](https://github.com/SAB-1/SQL-PROJECTS/blob/main/HR%20DATA%20ANALYSIS.sql)) - The project detailed the querying of a company database that was provided, which consists of different tables relating to the employee, their salaries and all records of noted on the employees. These querying gives insights on the performance of the employees.
-- **Project 2:** [WALMART STORE ANALYSIS]([https://github.com/SAB-1/project-2](https://github.com/SAB-1/PowerBI-Projects/blob/main/WALMART%20STORE%20ANALYSIS.pbix)) - This project showcases the details in sales of a Walmart store. It gives graphical relationship of Sales, Profits as well as Goods returned which is bad for businesses because it would definitely attract a refund and decrease profit.
-- **Project 3:** [EPL PERFORMANCE ANALYSIS]([https://github.com/SAB-1/project-3](https://github.com/SAB-1/PowerBI-Projects/blob/main/English%20Premier%20League%20Performance%20Analysis.pbix)) - This project give insight on teams and players analysis, which can be useful to understand the strength of one's opponent by teams facing each other.
+- **Project 1:** [HR DATA ANALYSIS](https://github.com/SAB-1/SQL-PROJECTS/blob/main/HR%20DATA%20ANALYSIS.sql) - The project detailed the querying of a company database that was provided, which consists of different tables relating to the employee, their salaries and all records of noted on the employees. These querying gives insights on the performance of the employees.
+- **Project 2:** [WALMART STORE ANALYSIS]((https://github.com/SAB-1/PowerBI-Projects/blob/main/WALMART%20STORE%20ANALYSIS.pbix)) - This project showcases the details in sales of a Walmart store. It gives graphical relationship of Sales, Profits as well as Goods returned which is bad for businesses because it would definitely attract a refund and decrease profit.
+- **Project 3:** [EPL PERFORMANCE ANALYSIS]((https://github.com/SAB-1/PowerBI-Projects/blob/main/English%20Premier%20League%20Performance%20Analysis.pbix)) - This project give insight on teams and players analysis, which can be useful to understand the strength of one's opponent by teams facing each other.
 ### ⚡ Fun Facts
 
 - I love solving puzzles and watching football.
