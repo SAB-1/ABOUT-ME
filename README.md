@@ -1,7 +1,6 @@
 # ABOUT-ME
-# Hi there, I'm SOWANDE AYOMIDE BOLUWATIFE! 👋
+# Hi there, I'm SOWANDE, AYOMIDE BOLUWATIFE! 👋
 
-## About Me
 
 I'm a passionate Data Analyst with a love leveraging data to drive technological advancements and improve day-to-day activities. My goal is to continuously learn and grow in the field of Data as a whole, while contributing to businesses progress and collaborating with like-minded individuals.
 
