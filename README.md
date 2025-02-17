@@ -20,8 +20,9 @@ I'm a passionate Data Analyst with a love leveraging data to drive technological
 ### 📫 How to Reach Me
 
 - **GitHub:** [SAB-1](https://github.com/SAB-1)
-- **Email:** (ayomidesowande@gmail.com)
+- **Email📩:** (ayomidesowande@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/sowande-ayomide-boluwatife-082b47213/)
+- **Portfolio👜:** (https://www.datascienceportfol.io/ayomidesowande)
 
 ### 🔭 Projects
 
