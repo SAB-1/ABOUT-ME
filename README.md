@@ -3,6 +3,8 @@
 
 
 I'm a passionate Data Analyst with a love leveraging data to drive technological advancements and improve day-to-day activities. My goal is to continuously learn and grow in the field of Data as a whole, while contributing to businesses progress and collaborating with like-minded individuals.
+I can also optimize Machine Learning to make decision as need may arise. It is known for a fact generally that the worls is moving towards that, so I 
+can help businesses inculcate Machine learning to their business methods.
 
 ### 🛠️ Tech Stack
 
@@ -11,14 +13,17 @@ I'm a passionate Data Analyst with a love leveraging data to drive technological
 - **Databases:** MySQL, MongoDB
 - **Tools:** Jupiter Notebook, VS Code, Google colab
 
-- ![SAB-1's GitHub Stats]("https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg")
-- ![SAB-1's GitHub Stats]("https://bigdata.qiwi.com/images/tild3739-3663-4635-b937-613166613231__-12.png")
-- ![SAB-1's GitHub Stats]("https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg")
-- ![SAB-1's GitHub Stats]("https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg")
-- ![SAB-1's GitHub Stats]("https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")
-- ![SAB-1's GitHub Stats]("https://i.ytimg.com/vi/05djBSOs1FA/hqdefault.jpg")
-- ![SAB-1's GitHub Stats]("https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"show_icons=true&theme=radical)
-- ![SAB-1's GitHub Stats]("https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"show_icons=true&theme=radical)
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80">
+  <img src="https://bigdata.qiwi.com/images/tild3739-3663-4635-b937-613166613231__-12.png" alt="MongoDB" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80">
+  <img src="https://i.ytimg.com/vi/05djBSOs1FA/hqdefault.jpg" alt="Jupyter Notebook" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="80">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="80">
+</div>
+
 
 ### 🌱 Currently Learning
 
@@ -51,4 +56,4 @@ Feel free to reach out if you want to collaborate on a project, ask a question, 
 ---
 
 ![SAB-1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAB-1&show_icons=true&theme=radical)
-![SAB-1's GitHub Stats]("https://github-readme-streak-stats.herokuapp.com/?user=SAB-1&"show_icons=true&theme=radical)
+![SAB-1's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAB-1&show_icons=true&theme=radical)
